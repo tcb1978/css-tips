@@ -49,3 +49,4 @@ You use to need way too many floats or a css framework to grid things out, but t
 * [CSS Grid Video](https://www.youtube.com/watch?v=jV8B24rSN5o) - Traversy Media video
 * [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks Guide
 * [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks Guide
+* [Firefox Developer](https://www.mozilla.org/en-US/firefox/developer/?utm_campaign=cssgrid&utm_content=web&utm_source=wesbos) - Best browser for grid dev tools
